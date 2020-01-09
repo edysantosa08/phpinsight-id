@@ -4,7 +4,6 @@
 	"description" : "Sentimen analisa dengan PHP, dimodifikasi dari  /JWHennessey/phpInsight",
 	"keywords" : [ "sentiment", "insight", "phpinsight" ],
 	"homepage" : "https://github.com/edysantosa08/PhpInsight-ID",
-	"license" : "GPLv3 or later",
 	"minimum-stability" : "stable",
 	"authors" : [
 		{
