@@ -1,5 +1,5 @@
 {
-	"name" : "edd/phpinsight",
+	"name" : "edysantosa08/PhpInsight-ID",
 	"type" : "library",
 	"description" : "Sentimen analisa dengan PHP, dimodifikasi dari  /JWHennessey/phpInsight",
 	"keywords" : [ "sentiment", "insight", "phpinsight" ],
